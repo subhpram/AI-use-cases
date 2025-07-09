@@ -1,4 +1,4 @@
 # AI-use-cases
 My AI Use Cases
 <br>
-Author - Subhashish
+Author - Subhashish P
